@@ -8,7 +8,12 @@ openupm add net.tnrd.fluentresults
 
 [<img src="https://img.shields.io/badge/-Download-success?style=for-the-badge"/>](http://package-installer.glitch.me/v1/installer/package.openupm.com/net.tnrd.fluentresults?registry=https://package.openupm.com)
 
-3. Installing from git through the package manager 
+3. Installing from git through the package manager by clicking the + icon and then selecting 'Add package from git URL...'
+
+![image](https://github.com/Thundernerd/Unity3D-FluentResults/assets/5531467/25303b45-3e52-45ba-a2b2-3533a365cc8f)
+
+and using the following url: `https://github.com/Thundernerd/Unity3D-FluentResults.git`
+
 
 4. Installing from git by adding the following line to your manifest.json
 ```
@@ -16,7 +21,6 @@ openupm add net.tnrd.fluentresults
 ```
 
 Original readme below this line
----
 ---
 
 
