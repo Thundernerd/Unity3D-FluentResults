@@ -17,7 +17,7 @@ and using the following url: `https://github.com/Thundernerd/Unity3D-FluentResul
 
 4. Installing from git by adding the following line to your manifest.json
 ```
-"fluentresults": "https://github.com/Thundernerd/Unity3D-FluentResults.git"
+"net.tnrd.fluentresults": "https://github.com/Thundernerd/Unity3D-FluentResults.git"
 ```
 
 Original readme below this line
