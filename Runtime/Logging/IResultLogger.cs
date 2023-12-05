@@ -1,6 +1,6 @@
 ﻿// ReSharper disable once CheckNamespace
 
-using Microsoft.Extensions.Logging;
+using FluentResults.Microsoft.Extensions.Logging;
 
 namespace FluentResults
 {

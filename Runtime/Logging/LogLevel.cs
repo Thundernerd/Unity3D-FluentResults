@@ -1,7 +1,7 @@
 //// --------------------------------------------------------------------
 //// NOTE: This has been added manually because we do not have a reference to Microsoft.Extensions.Logging.Abstractions
 //// --------------------------------------------------------------------
-namespace Microsoft.Extensions.Logging
+namespace FluentResults.Microsoft.Extensions.Logging
 {
     public enum LogLevel
     {
